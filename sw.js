@@ -1,5 +1,5 @@
 // Service worker: offline cache for the FP2 study app
-const CACHE = 'fp2-app-v14';
+const CACHE = 'fp2-app-v15';
 const ASSETS = [
   './',
   './index.html',
