@@ -1,5 +1,5 @@
 // Service worker: offline cache for the TEPPEN book app
-const CACHE = 'teppen-book-v5';
+const CACHE = 'teppen-book-v6';
 const ASSETS = [
   './',
   './index.html',
